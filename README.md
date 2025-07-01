@@ -1,2 +1,3 @@
 # first-repo
-Repository Nasıl Oluşturulur? Repository Nasıl Oluşturulur 2? 
+Repository Nasıl Oluşturulur? 
+Repository Nasıl Oluşturulur 2? 
